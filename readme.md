@@ -1,4 +1,4 @@
-## Sejam muito bem vindos[## Sejam muito bem vindos.
+## Boas vindas!
 
 Este *repositório* tem o objetivo de **compartilhamento** entre as pessoas.
 
